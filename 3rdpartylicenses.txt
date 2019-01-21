@@ -635,6 +635,11 @@ firebase/firestore
 
 @angular/material/button
 
+@firebase/storage
+Apache-2.0
+
+firebase/storage
+
 @angular/fire/auth
 MIT
 
